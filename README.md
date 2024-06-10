@@ -1,3 +1,3 @@
 # project-train-C
 
-Manage e-commerce site
+A manage e-commerce site by C language
